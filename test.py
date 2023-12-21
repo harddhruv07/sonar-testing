@@ -2,7 +2,7 @@ def f1():
     oijuhf
     try:
         a = 3
-    except:
+    except Exception as e:
         pass
 
     print('a')
