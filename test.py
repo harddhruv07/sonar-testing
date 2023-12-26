@@ -1,5 +1,5 @@
 def f1():
-    oijuhf
+    name = 'hard'
     try:
         a = 3
     except Exception as e:
