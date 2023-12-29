@@ -1,7 +1,7 @@
 def f1():
-    name = 'hard'
+    name
     try:
-        a = 3
+        a = 3 / 0
     except Exception as e:
         pass
 
