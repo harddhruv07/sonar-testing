@@ -1,6 +1,7 @@
 def f1():
     try:
-        a
+        a = 4
+    pass
     print('a')
 
 def f2():
