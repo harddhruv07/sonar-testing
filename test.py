@@ -1,9 +1,6 @@
 def f1():
     try:
-        a = 3 / 0
-    except Exception as e:
-        pass
-
+        a
     print('a')
 
 def f2():
